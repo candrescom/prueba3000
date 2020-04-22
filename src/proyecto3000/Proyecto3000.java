@@ -16,6 +16,8 @@ public class Proyecto3000 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        int bb;
     }
     
 }
